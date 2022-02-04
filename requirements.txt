@@ -1,0 +1,9 @@
+requests~=2.27.1
+pandas~=1.4.0
+api~=0.0.7
+openpyxl~=3.0.9
+lxml~=4.7.1
+wkhtmltopdf~=0.2
+pdfkit~=1.0.0
+bs4~=0.0.1
+beautifulsoup4~=4.10.0
